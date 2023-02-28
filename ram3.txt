@@ -1,5 +1,5 @@
-#!/bin/bash 
 # This is A sample project to learn the git and github 
+# Hey Hi 
 # To initialize the git in the folder use git init 
 # To Know the status of the git use git status command 
 # To track the files in git use git add . --> . Will adds all the tracked files 
